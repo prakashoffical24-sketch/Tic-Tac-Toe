@@ -43,7 +43,12 @@ Press Restart to play again
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/dd650dfe-5b54-44d6-a981-80f97e3fce28" />
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/fe2ba224-955b-4890-a31d-042e26e50cb5" />
 
-
+💡 Future Improvements (Optional)
+Add AI opponent (easy/medium/hard)
+Add score tracking (X wins, O wins, draws)
+Add sound effects
+Add dark/light theme toggle
+Add multiplayer online mode
 
 🙌 Author
 Prakash
