@@ -3,7 +3,7 @@ A modern, animated Tic Tac Toe game built using HTML, CSS, and JavaScript, featu
 
 
 🎮 Features
-🔹 Player Selection
+🔹 Player Selection<br>
 Choose whether you want to play as X or O before the game starts.
 🔹 Neon Glow UI
 Beautiful glowing board and animated elements for a futuristic look.
