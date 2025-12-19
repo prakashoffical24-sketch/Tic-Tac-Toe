@@ -5,8 +5,8 @@ A modern, animated Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScr
 ---
 
 ## 🚀 Live Demo  
-👉 [https://prakashofficial24-sketch.github.io/Tic-Tac-Toe/](https://prakashoffical24-sketch.github.io/Tic-Tac-Toe/)
-
+👉 [[https://prakashofficial24-sketch.github.io/Tic-Tac-Toe/](https://prakashoffical24-sketch.github.io/Tic-Tac-Toe/)
+](https://prakashbuilds.github.io/Tic-Tac-Toe/)ß
 ---
 
 ## 🎮 Features
